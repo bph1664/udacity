@@ -1,0 +1,1 @@
+aws cloudformation update-stack --stack-name test2 --region us-east-1 --template-body file://ec2.yml
